@@ -1,0 +1,11 @@
+/_build/
+/deps/
+/cover/
+/doc/
+/.elixir_ls/
+.env
+*.ez
+erl_crash.dump
+/assets/node_modules/
+priv/static/assets/
+.DS_Store
